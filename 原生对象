@@ -1,0 +1,5 @@
+es原生对象：String  Number    Boolean   Array   Date   Math   Object   Function   Error   RegExp   Global
+String:切割，截取，转换，查找，拼接
+字符串操作均返回新的字符串，无法修改原字符串
+切割：split("特定字符")，按照特定字符来切割，如果没有特定字符，则将字符串打散为单个字符，切割后变成数组
+截取：slice(start,end), 
